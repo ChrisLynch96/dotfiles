@@ -4,3 +4,4 @@
 [alias]
 	co = checkout
 	cb = checkout -b
+	cam = !git add -A && git commit -m
