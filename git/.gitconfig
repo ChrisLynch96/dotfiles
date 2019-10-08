@@ -1,0 +1,6 @@
+[user]
+	name = ChrisLynch96
+	email = chlynch@tcd.ie
+[alias]
+	co = checkout
+	cb = checkout -b
